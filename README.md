@@ -1,7 +1,7 @@
 Hello modana, i build this project to fulfill backend engineer test. 
 
 This project is about build basic CRUD API using Django Framework
-1.	User can register with the following field:
+1.	User can register with the following field:(use POST method)
   a.	First name
   b.	Last name
   c.	Phone number
