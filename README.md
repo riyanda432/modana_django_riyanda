@@ -7,10 +7,10 @@ This project is about build basic CRUD API using Django Framework
   c.	Phone number
   d.	Email
   e.	Password(encrypted)
-  2.	Get list of all users
+  2.	Get list of all users(use GET method)
   3.	Get single user by id
-  4.	Delete user by id
-  5.	Update user field by id
+  4.	Delete user by id (use DELETE method)
+  5.	Update user field by id (use PUT method)
 
 Unit test for all of API, negative and positive test case for the unit test
 
